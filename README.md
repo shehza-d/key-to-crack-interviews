@@ -61,6 +61,7 @@ Interviews can be nerve-wracking, so knowing what to do and what not to do can m
 9. **Stay Calm**: Keep your composure even if you encounter difficulties. Take a deep breath and approach the problem systematically.
 
 10. **Engage with the Interviewer**: If there's a behavioral or technical discussion, engage actively, showcasing your teamwork and problem-solving skills.
+11. ASK QUESTION IN THE END!
 
 ### Don'ts
 
@@ -85,6 +86,10 @@ Interviews can be nerve-wracking, so knowing what to do and what not to do can m
 10. **Don't Forget to Practice Soft Skills**: Along with technical skills, polish your communication, teamwork, and adaptability skills for behavioral interviews.
 
 Remember that interviews are not only about getting the right answer but also about demonstrating your problem-solving approach, communication skills, and ability to learn from challenges. Practice, self-reflection, and learning from each experience are key to improving your interview performance.
+
+### Interview Question
+
+- [What are your Weaknesses?](https://youtu.be/rzgNt-exrTc)
 
 **disclaimer:** repo needs some editing.
 
